@@ -5,7 +5,6 @@ using UnityEngine;
 
 public class EnemyMovement : MonoBehaviour
 {
-
     private void Start()
     {
         Pathfinder pathfinder = FindObjectOfType<Pathfinder>();
